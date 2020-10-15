@@ -1,0 +1,42 @@
+Slices sizes mismatch: data/TCGA-GBM/TCGA-12-0616/04-12-1999-Routine Brain-03138/9-COR REFORMAT-32560
+Slices sizes mismatch: data/TCGA-GBM/TCGA-12-0616/04-12-1999-Routine Brain-03138/10-SAG REFORMAT-57459
+Irregular direction (1, 0, 0),(0, 1, 1),(0, -1, 1):data/TCGA-GBM/TCGA-06-0129/03-14-2000-56870/6-AXIAL T1 PRE SPECTROSCOPY-74168
+Slices sizes mismatch: data/TCGA-GBM/TCGA-27-2524/09-06-1987-ENCEFALO ADULTIGENERALE-83983/5001-PosDisp 6 t1secor 5mm-05629
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/8-BRAINPITUITARYPDT2AXIA-08414
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/3-MRPhysicistDWI-06860
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/10-MRPhysicistFAIREST-ONLINE-85465
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/5-BRAINPITUITARYPDT2AXIA-15988
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/7-MRPhysicistDWI-55121
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/2-MRPhysicistFLAIR-EP-71787
+Slices sizes mismatch: data/TCGA-GBM/TCGA-76-4925/12-16-1995-77300/6-MRPhysicistFLAIR-EP-12862
+Slices sizes mismatch: data/TCGA-GBM/TCGA-08-0390/08-05-2003-MSTEALTH-70636/701-Summary Series-06532
+Irregular direction (-1, 0, -1),(1, 0, -1),(0, -1, 0):data/TCGA-GBM/TCGA-14-1395/10-13-1995-MRI STROKE PROTOCOL-43524/305-45968
+Irregular direction (1, 0, 0),(0, 1, -1),(0, 1, 1):data/TCGA-GBM/TCGA-14-1395/10-13-1995-MRI STROKE PROTOCOL-43524/303-21940
+Irregular direction (1, 0, 0),(0, 1, -1),(0, 1, 1):data/TCGA-GBM/TCGA-14-1395/10-13-1995-MRI STROKE PROTOCOL-43524/304-24835
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/601-brain with T2 AX GRASE-13238
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/801-brain with AX T1 POST-26488
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/702-brain with SS DWI-14318
+Irregular direction (1, 0, -1),(1, 0, 1),(0, -1, 0):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/201-brain with mst scout-22676
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/501-brain with FLAIR-60524
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/701-brain with SS DWI-67141
+Irregular direction (1, 0, 1),(-1, 0, 1),(0, -1, 0):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/901-brain with Cor T1 Post-26781
+Irregular direction (1, 0, -1),(1, 0, 1),(0, -1, 0):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/301-brain with T1 SAG 23SL-86809
+Irregular direction (1, 1, 0),(-1, 1, 0),(0, 0, 1):data/TCGA-GBM/TCGA-14-1395/09-05-1995-MRI BRAIN W WOUT CONTRAST-36603/401-brain with Ax T1 Pre-70244
+Irregular direction (-1, 0, -1),(1, 0, -1),(0, -1, 0):data/TCGA-GBM/TCGA-14-0865/08-21-1995-MRI BRAIN W WOUT CONTRAST-38462/803-30612
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA no contrastHead-34572/100-COW NOD-97614
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA no contrastHead-34572/102-LEFT CIRC SPIN-51495
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA no contrastHead-34572/101-ANT CIRC NOD-38513
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA no contrastHead-34572/103-RIGHT CIRC SPIN-19034
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA contrastMRA Carotids-34150/100-RIGHT CORTOID-34023
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA contrastMRA Carotids-34150/100-RIGHT CAROTID-36558
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/08-24-2001-MRA contrastMRA Carotids-34150/101-LEFT CAROTID-21502
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/09-16-2002-HeadRoutine-95842/100-AX MPR-79214
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-1829/09-16-2002-HeadRoutine-95842/101-COR MPR-42134
+Slices sizes mismatch: data/TCGA-GBM/TCGA-12-1602/03-04-2001-MRI BRAIN-38341/12-cor mpr-57409
+Slices sizes mismatch: data/TCGA-GBM/TCGA-12-1602/03-04-2001-MRI BRAIN-38341/11-ax mpr-34843
+Slices sizes mismatch: data/TCGA-GBM/TCGA-12-1602/03-04-2001-MRI BRAIN-38341/13-sag mpr-30100
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-3477/05-06-2002-HeadRoutine-31370/100-CORONAL MPR-68548
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-3477/02-19-2003-HeadRoutine-35322/101-sag-75152
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-3477/02-19-2003-HeadRoutine-35322/100-cor-06229
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-3477/08-27-2002-HeadRoutine-81945/12-COR POST MPR-63708
+Slices sizes mismatch: data/TCGA-GBM/TCGA-14-3477/09-19-2002-HeadRoutine-28106/100-COR RECON POST-36818
