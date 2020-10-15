@@ -35,7 +35,7 @@ n_t2        Number of T2 samples. For all samples, use -1
 n_other     Number of OTHER samples. For all samples, use -1
 ```
 
-This script outputs three CSV files containing the respective paths and labels of the volumes designated to train, validation and test inside ```data_csv/generated/```. The files used in the experiments are provided in this repository.
+This script outputs three CSV files containing the respective paths and labels of the volumes designated to train, validation and test inside ```data_csv/generated/```. The files used in the paper experiments are provided in this repository.
 
 ## Training and validation
 
