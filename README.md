@@ -26,7 +26,7 @@ Use the script `generate_dataset.py` to assemble the final dataset from base MRI
 The CSV file listing the base datasets must be in format `path,extension,n_flair,n_t1,n_t1c,n_t2,n_other`, where:
 
 ```
-path        Path to the dataset volumes from a directory named 'data' inside the root directory. Examples are provided in this repository
+path        Path to the dataset volumes from a directory named 'data' inside the root directory.
 extension   File extension (without preceding dot) of the volumes contained in *path*
 n_flair     Number of FLAIR samples. For all samples, use -1
 n_t1        Number of T1 samples. For all samples, use -1
@@ -35,7 +35,7 @@ n_t2        Number of T2 samples. For all samples, use -1
 n_other     Number of OTHER samples. For all samples, use -1
 ```
 
-This script outputs three CSV files containing the respective paths and labels of the volumes designated to train, validation and test inside ```data_csv/generated/```.
+This script outputs three CSV files containing the respective paths and labels of the volumes designated to train, validation and test inside ```data_csv/generated/```. The files used in the experiments are provided in this repository.
 
 ## Training and validation
 
