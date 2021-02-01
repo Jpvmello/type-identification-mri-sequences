@@ -70,4 +70,4 @@ Use ```test.py``` to test your model, combining the following arguments:
 
 ## Trained models
 
-The trained models described in the paper are available [here](https://drive.google.com/drive/folders/1h6fgWXEUxQaFFM72XvaUMLw0ExR-6dFU?usp=sharing). Prefixes ```bX```, ```tX``` and ```btX``` denote models trained considering X classes with BRATS data, TCGA-GBM data and mixed data, respectively. Suffixes ```slX.pth``` denote models trained with X central slices.
+The trained models described in the paper are available [here](https://drive.google.com/drive/folders/1h6fgWXEUxQaFFM72XvaUMLw0ExR-6dFU?usp=sharing). Prefixes ```bX```, ```tX``` and ```btX``` denote models trained considering X classes with BRATS data, TCGA-GBM data and mixed data, respectively. Prefix ```main``` denotes models trained with the main dataset, BRATS+TCGA5. Suffixes ```slX.pth``` denote models trained with X central slices.
