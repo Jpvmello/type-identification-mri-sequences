@@ -1,4 +1,7 @@
 # Deep Learning-based Type Identification of Volumetric MRI Sequences
+
+***ERRATA***: _there is an important errata note along with the paper's links bellow. Please check it out before using this repository._
+
 [Jean Pablo Vieira de Mello](https://github.com/Jpvmello), [Thiago M. Paixão](https://sites.google.com/view/thiagopx), [Rodrigo F. Berriel](http://rodrigoberriel.com/), [Mauricio Reyes](http://www.mauricioreyes.me/aboutme.html), [Claudine Badue](https://www.inf.ufes.br/~claudine/), [Alberto F. De Souza](https://inf.ufes.br/~alberto) and [Thiago Oliveira-Santos](https://www.inf.ufes.br/~todsantos/home)
 
 Source code and trained models referring to the paper **Deep Learning-based Type Identification of Volumetric MRI Sequences**, published in [ICPR 2020](https://www.micc.unifi.it/icpr2020/) are available here.
