@@ -9,7 +9,7 @@ Source code and trained models referring to the paper **Deep Learning-based Type
 DOI: [10.1109/ICPR48806.2021.9413120](https://doi.org/10.1109/ICPR48806.2021.9413120)  
 arXiv: [https://arxiv.org/abs/2106.03208](https://arxiv.org/abs/2106.03208)
 
-***Note:*** _after the acceptance of the work, it was noticed that some experiments may be biased, as different versions of the BraTS dataset present some data overlap (repeated data among them). [This document](https://docs.google.com/document/d/1UmE7jFfWaAxsS6wXodPRkdKeyDAcVdEWXfMKGzGiiKk/edit?usp=sharing) aims to correct this, presenting some unbiased experiments._
+***Note:*** _after the acceptance of the work, it was noticed that some experiments may be biased, as different datasets used present some data overlap (repeated/derivated data among them). [This document](https://docs.google.com/document/d/1UmE7jFfWaAxsS6wXodPRkdKeyDAcVdEWXfMKGzGiiKk/edit?usp=sharing) aims to correct this, presenting some unbiased experiments._
 
 ![overview.png](images/overview.png)
 
